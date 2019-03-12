@@ -13,6 +13,6 @@ passengers = {
        value.start_with?("A")
       puts "#{value}"
     end 
- 
+
 end
 select_winner(passengers)
