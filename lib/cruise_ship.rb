@@ -15,4 +15,3 @@ passengers = {
     end 
 
 end
-select_winner(passengers)
