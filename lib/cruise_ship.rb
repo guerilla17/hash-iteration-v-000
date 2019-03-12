@@ -13,5 +13,5 @@ def select_winner(passengers)
       puts "#{value}"
     end
 end
-winner
 end
+select_winner(passengers)
