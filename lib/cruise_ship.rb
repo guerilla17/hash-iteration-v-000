@@ -11,7 +11,7 @@ passengers = {
   passengers.each do |key, value|
     if key == :suite_a && 
        value.start_with?("A")
-     value
+     return value
     end 
 end
 end
